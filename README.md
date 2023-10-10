@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Desenvolvimento Front-End.
+Front-end development student
 
 
 ## 🌐 Socials:
